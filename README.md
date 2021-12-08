@@ -2,28 +2,6 @@
 
 The goal of this project is to accurately predict the number of retweets a tweet will get. The provided dataset is a small subset that was extracted from the COVID19 Twitter dataset that was collect by the DaSciM team during the first wave of lockdowns (March 2020).
 
-## Project Structure 
-
-.
-├── README.md
-├── make_predictions.ipynb
-├── pipeline.ipynb
-├── feature_extraction.py
-├── classification.py
-├── regression.py
-├── prediction.py
-├── data
-│   ├── train.csv
-│   ├── evaluation.csv
-│   ├── train_features.csv
-│   └── eval_features.csv
-├── saved_models
-│   ├── classification
-│   └── regression
-├── predictions.txt
-├── FeatureExtraction_Text_train
-└── hashtags_dict
-
 
 ## How to make new predictions
 
